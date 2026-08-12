@@ -1,6 +1,6 @@
 # CrimeCast: Crime Category Prediction Model
 
-This project aims to build a machine learning model that predicts the category of a crime based on input features.
+This project aims to build a machine learning model that predicts the category of a crime based on historical crime record.
 
 ## 🔧 Tools Used
 - Python
