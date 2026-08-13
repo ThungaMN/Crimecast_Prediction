@@ -1,4 +1,4 @@
-# CrimeCast: Crime Category Prediction Model
+# CCP
 
 This project aims to build a machine learning model that predicts the category of a crime based on historical crime record.
 
